@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Logs and outputs
+*.log
+nohup.out
+report.csv
+
+# Database files (keep local, not in repo)
+*.db
+
+# Backup files
+*.save
+*.png
